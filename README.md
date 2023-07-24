@@ -1,2 +1,2 @@
 # personal-website
-Repo to create my personal wesbite
+Repo to create my personal website
