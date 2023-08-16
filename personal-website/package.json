@@ -16,7 +16,7 @@
     "start": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts start",
     "build": "set SET NODE_OPTIONS=--openssl-legacy-provider && react-scripts build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
